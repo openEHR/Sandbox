@@ -18,7 +18,7 @@ There are now very nice simple clients available for Github
 - Mac: http://mac.github.com/
 - Linux users will be competent enough to find what they need...
 
-Mor help can be foud via e.g. https://help.github.com/
+Mor help can be found via e.g. https://help.github.com/
 
 The GIT clients create a local copy/fork of repositories (like this "Sandbox") on your computer, you can then
 update add or remove files locally. Whenever you want to freeze a snapshot of your work, you commit locally and
