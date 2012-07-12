@@ -1,1 +1,2 @@
 Please play around with text here!
+This line was originally added in Eriks personal fork of the master openEHR sandbox.
