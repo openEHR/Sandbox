@@ -11,7 +11,7 @@ Your private fork will be "connected" to the original files (visible in the netw
 https://github.com/openEHR/Sandbox/network) and all or some of your changes can (fairly easily) 
 be "pulled" into later versions of the original file repository or into somebody else's fork(s).
 
-Forking and simple file editing can be done online via the the Github web interface if you don't need 
+Forking and simple file editing can be done online via the Github web interface if you don't need 
 local/offline editing.
 
 There are now very nice simple clients available for Github
