@@ -5,6 +5,7 @@ This is a space for the openEHR community to test Git/github features, feel free
 
 Some subdirectories have specific purposes:
 - [/testfolder_one](https://github.com/openEHR/Sandbox/tree/master/testfolder_one) fool around here
+- [/pathology](https://github.com/openEHR/Sandbox/tree/master/pathology) reserved for the experiments described in https://discourse.openehr.org/t/refreshing-archetypes-related-to-pathology-reporting/2393/78
 - 
 
 
