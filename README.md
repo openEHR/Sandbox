@@ -4,11 +4,11 @@ Sandbox
 This is a space for the openEHR community to test Git/github features, feel free to "fork" files and play around...
 
 Some subdirectories have specific purposes:
-- [/testfolder_one](https://github.com/openEHR/Sandbox/tree/master/testfolder_one) fool around here
-- [/pathology](https://github.com/openEHR/Sandbox/tree/master/pathology) reserved for the experiments described in https://discourse.openehr.org/t/refreshing-archetypes-related-to-pathology-reporting/2393/78
-- 
+- [/testfolder_one](/testfolder_one) fool around here
+- [/pathology](/pathology) reserved for info, mindmaps etc for the experiments described in https://discourse.openehr.org/t/refreshing-archetypes-related-to-pathology-reporting/2393/78
+- [/local](/local) the default direectory that [Archetype Designer](https://tools.openehr.org/designer/) saves to in a github repository (this is where archetypes and templates you creat will end up by default, they can later be mnually moved into subdirectories under /local (for example /local/pathology) and still be found and edited by Archetype designer.
 
-#"forks"
+# "forks"
 A thing with Git/Github  is that YOU can dig in and modify ("fork") entire repositories into your own space  
 if you have a (free) Github account.
 
@@ -21,10 +21,10 @@ local/offline editing.
 
 Read more about forks in https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks
 
-#"branches"
+# "branches"
 Each fork can have a number of "branches" see https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
 
-#GIT clients
+# GIT clients
 There are now very nice simple clients available for Github
 - Windows: http://windows.github.com/
 - Mac: http://mac.github.com/
