@@ -8,8 +8,8 @@ Some subdirectories have specific purposes:
 - [/pathology](https://github.com/openEHR/Sandbox/tree/master/pathology) reserved for the experiments described in https://discourse.openehr.org/t/refreshing-archetypes-related-to-pathology-reporting/2393/78
 - 
 
-
-A thing with Git/Github  is that YOU can dig in and modify ("fork") files in your own space right away 
+#"forks"
+A thing with Git/Github  is that YOU can dig in and modify ("fork") entire repositories into your own space  
 if you have a (free) Github account.
 
 Your private fork will be "connected" to the original files (visible in the network graph at
@@ -19,6 +19,12 @@ be "pulled" into later versions of the original file repository or into somebody
 Forking and simple file editing can be done online via the Github web interface if you don't need 
 local/offline editing.
 
+Read more about forks in https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks
+
+#"branches"
+Each fork can have a number of "branches" see https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
+
+#GIT clients
 There are now very nice simple clients available for Github
 - Windows: http://windows.github.com/
 - Mac: http://mac.github.com/
