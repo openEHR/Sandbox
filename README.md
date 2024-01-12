@@ -3,9 +3,13 @@ Sandbox
 
 This is a space for the openEHR community to test Git/github features, feel free to "fork" files and play around...
 
-Currently Thomas Beale and Erik Sundvall are administrators of this "Sandbox" repository, but the thing with 
-Git/Github  is that YOU can dig in and modify ("fork") files in your own space right away (if you have a free 
-Github account).
+Some subdirectories have specific purposes:
+- [/testfolder_one](https://github.com/openEHR/Sandbox/tree/master/testfolder_one) fool around here
+- 
+
+
+A thing with Git/Github  is that YOU can dig in and modify ("fork") files in your own space right away 
+if you have a (free) Github account.
 
 Your private fork will be "connected" to the original files (visible in the network graph at
 https://github.com/openEHR/Sandbox/network) and all or some of your changes can (fairly easily) 
